@@ -1,0 +1,15 @@
+aml-transaction-monitoring-pipeline/
+  README.md
+  docs/
+    architecture.png
+    data_flow.md
+  src/
+    ingest/
+    transform/
+    quality/
+  sample_data/
+    input.csv
+    output.csv
+  notebooks/
+  tests/
+  .gitignore
